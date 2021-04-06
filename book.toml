@@ -1,0 +1,6 @@
+[book]
+authors = ["Adam Joseph Cook"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Programmable Logic Controller (PLC) Technology Book"
